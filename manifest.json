@@ -1,0 +1,10 @@
+{
+  "metadata": {
+    "appmode": "static",
+    "primary_html": "index.html"
+  },
+  "python": {
+    "version": "3.12",
+    "package_manager": "pip"
+  }
+}
