@@ -1,7 +1,7 @@
 {
   "metadata": {
     "appmode": "static",
-    "primary_html": "index.html"
+    "primary_html": "random.html"
   },
   "python": {
     "version": "3.12",
